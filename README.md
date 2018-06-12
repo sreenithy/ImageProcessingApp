@@ -13,8 +13,8 @@ Image​ ​Morphological​ ​operations​ ​such​ ​as​ ​erosion​ 
 **4.Thresholding**
 Thresholding​ ​includes​ ​the​ ​following​ ​variants:
 
-a. Thresholding​ ​to​ ​zero
-b. Thresholding​ ​to​ ​zero​ ​followed​ ​color​ ​inversion  
-c. Binary​ ​thresholding
+..* Thresholding​ ​to​ ​zero
+..* Thresholding​ ​to​ ​zero​ ​followed​ ​color​ ​inversion  
+..* Binary​ ​thresholding
 
 **5.Sepia​ ​filtering**
